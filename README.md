@@ -1,4 +1,4 @@
-# MochaWaffle.github.io
+# vaibhav-saini-dev.github.io
 
 GitHub page for CS 480/617 Homework 2
 
